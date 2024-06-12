@@ -21,10 +21,10 @@ export default function Home() {
       <Preview>
         <Image
           src={previewImg}
+          alt="Calendário simbolizando aplicação em funcionamento"
           height={400}
           quality={100}
           priority
-          alt="Calendário simbolizando aplicação em funcionamento"
         />
       </Preview>
     </Container>
